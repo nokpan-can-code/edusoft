@@ -36,7 +36,7 @@ const Testimonials = () => {
               <div className='user-info'>
                 <img src={user_1} alt=''/>
                 <div>
-                  <h3>Precious I. Daniel 1</h3>
+                  <h3>Nokpan J. Ishaya</h3>
                   <span>Abuja, Nig.</span>
                 </div>
               </div>
@@ -50,7 +50,7 @@ const Testimonials = () => {
               <div className='user-info'>
                 <img src={user_2} alt=''/>
                 <div>
-                  <h3>Wisdom Micah 2</h3>
+                  <h3>Wisdom D. Micah </h3>
                   <span>Jos, Nig.</span>
                 </div>
               </div>
@@ -63,8 +63,8 @@ const Testimonials = () => {
               <div className='user-info'>
                 <img src={user_3} alt=''/>
                 <div>
-                  <h3>Faith J. Juliet 3</h3>
-                  <span>Lagos, Nig.</span>
+                  <h3>Blessing M. Danladi</h3>
+                  <span>Jos, Nig.</span>
                 </div>
               </div>
               <p>The community at this university is amazing. I’ve made lifelong friends, 
@@ -76,8 +76,8 @@ const Testimonials = () => {
               <div className='user-info'>
                 <img src={user_4} alt=''/>
                 <div>
-                  <h3>Nokpan J. Ishaya 4</h3>
-                  <span>Edusoft, Nig.</span>
+                  <h3>Ronald C. Gutul</h3>
+                  <span>Bauchi, Nig.</span>
                 </div>
               </div>
               <p>Every day here feels inspiring. The resources, mentorship, and opportunities 
